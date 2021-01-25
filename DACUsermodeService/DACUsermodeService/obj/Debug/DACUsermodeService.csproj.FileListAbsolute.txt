@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\bin\Debug\DACUsermodeService.exe.config
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\bin\Debug\DACUsermodeService.exe
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\bin\Debug\DACUsermodeService.pdb
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.Form1.resources
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.exe
+C:\Users\Lenovo\source\repos\DACUsermodeService\DACUsermodeService\obj\Debug\DACUsermodeService.pdb

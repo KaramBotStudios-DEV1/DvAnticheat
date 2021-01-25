@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\Anticheat V1.5 (rewritten).csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\Anticheat_V1._5__rewritten_.Form1.resources
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\Anticheat_V1._5__rewritten_.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\Anticheat V1.5 (rewritten).csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\Anticheat V1.5 (rewritten).csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\bin\Debug\KernelModeAntiCheat.exe.config
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\bin\Debug\KernelModeAntiCheat.exe
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\bin\Debug\KernelModeAntiCheat.pdb
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\KernelModeAntiCheat.exe
+C:\Users\Lenovo\source\repos\Anticheat V1.5 (rewritten)\Anticheat V1.5 (rewritten)\obj\Debug\KernelModeAntiCheat.pdb
